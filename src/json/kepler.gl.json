@@ -1,0 +1,156 @@
+{
+  "arrival": {
+    "iata": "IGU",
+    "airport": "Aeroporto Internacional de Foz do Iguaçu",
+    "city": "Foz do Iguaçu",
+    "lat": -25.6003,
+    "lon": -54.485,
+    "total_flights": 905
+  },
+  "routes": [
+    {
+      "origin": {
+        "iata": "GRU",
+        "airport": "Sao Paulo Guarulhos International Airport",
+        "city": "Sao Paulo",
+        "lat": -23.429991,
+        "lon": -46.4674
+      },
+      "destination": {
+        "iata": "IGU",
+        "lat": -25.6003,
+        "lon": -54.485
+      },
+      "flights": 308,
+      "weight": 308
+    },
+    {
+      "origin": {
+        "iata": "CGH",
+        "airport": "Sao Paulo Congonhas Airport",
+        "city": "Sao Paulo",
+        "lat": -23.627348,
+        "lon": -46.655987
+      },
+      "destination": {
+        "iata": "IGU",
+        "lat": -25.6003,
+        "lon": -54.485
+      },
+      "flights": 198,
+      "weight": 198
+    },
+    {
+      "origin": {
+        "iata": "GIG",
+        "airport": "Rio de Janeiro Galeao International Airport",
+        "city": "Rio de Janeiro",
+        "lat": -22.805696,
+        "lon": -43.25523
+      },
+      "destination": {
+        "iata": "IGU",
+        "lat": -25.6003,
+        "lon": -54.485
+      },
+      "flights": 197,
+      "weight": 197
+    },
+    {
+      "origin": {
+        "iata": "CWB",
+        "airport": "Curitiba Afonso Pena International Airport",
+        "city": "Curitiba",
+        "lat": -25.5284,
+        "lon": -49.175701
+      },
+      "destination": {
+        "iata": "IGU",
+        "lat": -25.6003,
+        "lon": -54.485
+      },
+      "flights": 112,
+      "weight": 112
+    },
+    {
+      "origin": {
+        "iata": "VCP",
+        "airport": "Campinas Viracopos International Airport",
+        "city": "Campinas",
+        "lat": -23.00643,
+        "lon": -47.136002
+      },
+      "destination": {
+        "iata": "IGU",
+        "lat": -25.6003,
+        "lon": -54.485
+      },
+      "flights": 58,
+      "weight": 58
+    },
+    {
+      "origin": {
+        "iata": "BSB",
+        "airport": "Brasilia International Airport",
+        "city": "Brasilia",
+        "lat": -15.8711,
+        "lon": -47.918598
+      },
+      "destination": {
+        "iata": "IGU",
+        "lat": -25.6003,
+        "lon": -54.485
+      },
+      "flights": 29,
+      "weight": 29
+    },
+    {
+      "origin": {
+        "iata": "CNF",
+        "airport": "Belo Horizonte Tancredo Neves International Airport",
+        "city": "Belo Horizonte",
+        "lat": -19.634266,
+        "lon": -43.968307
+      },
+      "destination": {
+        "iata": "IGU",
+        "lat": -25.6003,
+        "lon": -54.485
+      },
+      "flights": 1,
+      "weight": 1
+    },
+    {
+      "origin": {
+        "iata": "FOR",
+        "airport": "Fortaleza Pinto Martins International Airport",
+        "city": "Fortaleza",
+        "lat": -3.77628,
+        "lon": -38.532501
+      },
+      "destination": {
+        "iata": "IGU",
+        "lat": -25.6003,
+        "lon": -54.485
+      },
+      "flights": 1,
+      "weight": 1
+    },
+    {
+      "origin": {
+        "iata": "SCL",
+        "airport": "Santiago International Airport",
+        "city": "Santiago",
+        "lat": -33.392899,
+        "lon": -70.785797
+      },
+      "destination": {
+        "iata": "IGU",
+        "lat": -25.6003,
+        "lon": -54.485
+      },
+      "flights": 1,
+      "weight": 1
+    }
+  ]
+}

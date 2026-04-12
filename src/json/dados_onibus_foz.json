@@ -1,0 +1,182 @@
+{
+  "arrival": {
+    "station": "Terminal Rodoviário Internacional de Foz do Iguaçu",
+    "lat": -25.5206223,
+    "lon": -54.5635026,
+    "total_onibus": 200
+  },
+  "routes": [
+    {
+      "departure_station": "Rodoviária de Campo Grande",
+      "departure_lat": -20.4265667,
+      "departure_lon": -54.5892466,
+      "arrival_station": "Terminal Rodoviário Internacional de Foz do Iguaçu",
+      "arrival_lat": -25.5206223,
+      "arrival_lon": -54.5635026,
+      "stops": [
+        { "station": "Dourados", "lat": -22.2231, "lon": -54.8120, "ordem": 1 },
+        { "station": "Guaíra", "lat": -24.0800, "lon": -54.2560, "ordem": 2 }
+      ],
+      "rota": "Rodoviária de Campo Grande -> Terminal Rodoviário Internacional de Foz do Iguaçu",
+      "dist_km": 566,
+      "total_onibus": 26,
+      "nivel_fluxo": "medio",
+      "percentual_fluxo": 13,
+      "preco_medio": 213.21,
+      "preco_medio_desconto": 174.29,
+      "duracao_media_horas": 12.5
+    },
+    {
+      "departure_station": "Rodoviária de Curitiba",
+      "departure_lat": -25.4379179,
+      "departure_lon": -49.2576748,
+      "arrival_station": "Terminal Rodoviário Internacional de Foz do Iguaçu",
+      "arrival_lat": -25.5206223,
+      "arrival_lon": -54.5635026,
+
+      "stops": [
+        { "station": "Guarapuava", "lat": -25.39, "lon": -51.46, "ordem": 1 },
+        { "station": "Cascavel", "lat": -24.95, "lon": -53.45, "ordem": 2 }
+      ],
+
+      "rota": "Rodoviária de Curitiba -> Terminal Rodoviário Internacional de Foz do Iguaçu",
+      "dist_km": 533,
+      "total_onibus": 30,
+      "nivel_fluxo": "medio",
+      "percentual_fluxo": 15,
+      "preco_medio": 203.47,
+      "preco_medio_desconto": 165.96,
+      "duracao_media_horas": 10.34
+    },
+    {
+      "departure_station": "Rodoviária de Florianópolis",
+      "departure_lat": -27.5971666,
+      "departure_lon": -48.5580257,
+      "arrival_station": "Terminal Rodoviário Internacional de Foz do Iguaçu",
+      "arrival_lat": -25.5206223,
+      "arrival_lon": -54.5635026,
+      "stops": [
+        { "station": "Lages", "lat": -27.8158, "lon": -50.3258, "ordem": 1 },
+        { "station": "Campos Novos", "lat": -27.4019, "lon": -51.2250, "ordem": 2 },
+        { "station": "Xanxerê", "lat": -26.88, "lon": -52.4, "ordem": 3 },
+        { "station": "Francisco Beltrão", "lat": -26.081, "lon": -53.055, "ordem": 4 },
+        { "station": "Cascavel", "lat": -24.95, "lon": -53.45, "ordem": 5 }
+      ],
+
+      "rota": "Rodoviária de Florianópolis -> Terminal Rodoviário Internacional de Foz do Iguaçu",
+      "dist_km": 640,
+      "total_onibus": 19,
+      "nivel_fluxo": "baixo",
+      "percentual_fluxo": 9.5,
+      "preco_medio": 222.72,
+      "preco_medio_desconto": 183.25,
+      "duracao_media_horas": 14.37
+    },
+    {
+      "departure_station": "Rodoviária de Londrina",
+      "departure_lat": -23.3095675,
+      "departure_lon": -51.1596083,
+      "arrival_station": "Terminal Rodoviário Internacional de Foz do Iguaçu",
+      "arrival_lat": -25.5206223,
+      "arrival_lon": -54.5635026,
+      "stops": [
+        { "station": "Maringá", "lat": -23.4261, "lon": -51.9099, "ordem": 1 },
+        { "station": "Campo Mourão", "lat": -24.0463, "lon": -52.3793, "ordem": 2 },
+        { "station": "Cascavel", "lat": -24.95, "lon": -53.45, "ordem": 3 }
+      ],
+      "rota": "Rodoviária de Londrina -> Terminal Rodoviário Internacional de Foz do Iguaçu",
+      "dist_km": 423,
+      "total_onibus": 15,
+      "nivel_fluxo": "baixo",
+      "percentual_fluxo": 7.5,
+      "preco_medio": 194.22,
+      "preco_medio_desconto": 158.04,
+      "duracao_media_horas": 8.42
+    },
+    {
+      "departure_station": "Rodoviária de Maringá",
+      "departure_lat": -23.4260827,
+      "departure_lon": -51.9099523,
+      "arrival_station": "Terminal Rodoviário Internacional de Foz do Iguaçu",
+      "arrival_lat": -25.5206223,
+      "arrival_lon": -54.5635026,
+      "stops": [
+        { "station": "Campo Mourão", "lat": -24.0463, "lon": -52.3793, "ordem": 1 },
+        { "station": "Cascavel", "lat": -24.95, "lon": -53.45, "ordem": 2 }
+      ],
+      "rota": "Rodoviária de Maringá -> Terminal Rodoviário Internacional de Foz do Iguaçu",
+      "dist_km": 355,
+      "total_onibus": 31,
+      "nivel_fluxo": "medio",
+      "percentual_fluxo": 15.5,
+      "preco_medio": 207.88,
+      "preco_medio_desconto": 167.43,
+      "duracao_media_horas": 7.37
+    },
+    {
+      "departure_station": "Rodoviária de Porto Alegre",
+      "departure_lat": -30.0238083,
+      "departure_lon": -51.2198851,
+      "arrival_station": "Terminal Rodoviário Internacional de Foz do Iguaçu",
+      "arrival_lat": -25.5206223,
+      "arrival_lon": -54.5635026,
+      "stops": [
+        { "station": "Caxias do Sul", "lat": -29.1678, "lon": -51.1794, "ordem": 1 },
+        { "station": "Chapecó", "lat": -27.1004, "lon": -52.6152, "ordem": 2 },
+        { "station": "Cascavel", "lat": -24.95, "lon": -53.45, "ordem": 3 }
+      ],
+      "rota": "Rodoviária de Porto Alegre -> Terminal Rodoviário Internacional de Foz do Iguaçu",
+      "dist_km": 599,
+      "total_onibus": 21,
+      "nivel_fluxo": "medio",
+      "percentual_fluxo": 10.5,
+      "preco_medio": 235.04,
+      "preco_medio_desconto": 199.7,
+      "duracao_media_horas": 18.36
+    },
+    {
+      "departure_station": "Rodoviária de Rio de Janeiro",
+      "departure_lat": -22.8987525,
+      "departure_lon": -43.2075397,
+      "arrival_station": "Terminal Rodoviário Internacional de Foz do Iguaçu",
+      "arrival_lat": -25.5206223,
+      "arrival_lon": -54.5635026,
+      "stops": [
+        { "station": "São Paulo", "lat": -23.5505, "lon": -46.6333, "ordem": 1 },
+        { "station": "Londrina", "lat": -23.3096, "lon": -51.1596, "ordem": 2 },
+        { "station": "Maringá", "lat": -23.4261, "lon": -51.9099, "ordem": 3 },
+        { "station": "Cascavel", "lat": -24.95, "lon": -53.45, "ordem": 4 }
+      ],
+      "rota": "Rodoviária de Rio de Janeiro -> Terminal Rodoviário Internacional de Foz do Iguaçu",
+      "dist_km": 1188,
+      "total_onibus": 30,
+      "nivel_fluxo": "medio",
+      "percentual_fluxo": 15,
+      "preco_medio": 209.03,
+      "preco_medio_desconto": 169.77,
+      "duracao_media_horas": 20.35
+    },
+    {
+      "departure_station": "Rodoviária de São Paulo",
+      "departure_lat": -22.8754662,
+      "departure_lon": -46.7915937,
+      "arrival_station": "Terminal Rodoviário Internacional de Foz do Iguaçu",
+      "arrival_lat": -25.5206223,
+      "arrival_lon": -54.5635026,
+      "stops": [
+        { "station": "Presidente Prudente", "lat": -22.1207, "lon": -51.3889, "ordem": 1 },
+        { "station": "Londrina", "lat": -23.3096, "lon": -51.1596, "ordem": 2 },
+        { "station": "Maringá", "lat": -23.4261, "lon": -51.9099, "ordem": 3 },
+        { "station": "Cascavel", "lat": -24.95, "lon": -53.45, "ordem": 4 }
+      ],
+      "rota": "Rodoviária de São Paulo -> Terminal Rodoviário Internacional de Foz do Iguaçu",
+      "dist_km": 841,
+      "total_onibus": 28,
+      "nivel_fluxo": "medio",
+      "percentual_fluxo": 14,
+      "preco_medio": 200.87,
+      "preco_medio_desconto": 164.98,
+      "duracao_media_horas": 16.38
+    }
+  ]
+}
