@@ -11,16 +11,71 @@ export interface Route {
 }
 
 export interface Vehicle {
-    id: string;
-    routeId: string;
-    type: VehicleType;
+    latitude: number;
+    longitude: number;
+    peso_carros: number;
+    velocidade: number;
+    rua: string;
+}
+
+export interface Stop {
+    station: string;
     lat: number;
-    lng: number;
-    targetLat: number;
-    targetLng: number;
-    progress: number; // 0-1
-    origin: string;
-    country: string;
+    lon: number;
+    ordem: number;
+}
+
+export interface Bus {
+    departure_station: string;
+    departure_lat: number;
+    departure_lon: number;
+
+    arrival_station: string;
+    arrival_lat: number;
+    arrival_lon: number;
+
+    rota: string;
+    dist_km: number;
+
+    stops: Stop[];
+
+    total_onibus: number;
+    nivel_fluxo: string;
+    percentual_fluxo: number;
+
+    preco_medio: number;
+    preco_medio_desconto: number;
+    duracao_media_horas: number;
+}
+
+export interface AirportInfo {
+    iata: string;
+    airport?: string; // opcional porque destination não tem nome
+    city?: string;    // opcional pelo mesmo motivo
+    lat: number;
+    lon: number;
+}
+
+export interface ArrivalAirport {
+    iata: string;
+    airport: string;
+    city: string;
+    lat: number;
+    lon: number;
+    total_flights: number;
+}
+
+export interface FlightRoute {
+    origin: AirportInfo;
+    destination: AirportInfo;
+
+    flights: number;
+    weight: number;
+}
+
+export interface FlightData {
+    arrival: ArrivalAirport;
+    routes: FlightRoute[];
 }
 
 export const FOZ_COORDS = { lat: -25.5163, lng: -54.5854 };

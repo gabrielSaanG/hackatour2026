@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ev-001",
+    "name": "Festival das Cataratas",
+    "address": "Av. das Cataratas, 12500 — Parque Nacional",
+    "location": "Parque Nacional do Iguaçu",
+    "start_date": "2026-04-10",
+    "end_date": "2026-04-14",
+    "open_date": "2026-04-10",
+    "category": "cultura"
+  },
+  {
+    "id": "ev-002",
+    "name": "Foz Gastronômico",
+    "address": "Av. JK, 1750 — Centro",
+    "location": "Parque Histórico de Itaipu",
+    "start_date": "2026-04-12",
+    "end_date": "2026-04-13",
+    "open_date": "2026-04-12",
+    "category": "feira"
+  },
+  {
+    "id": "ev-003",
+    "name": "Show Internacional Iguassu",
+    "address": "R. Almirante Barroso, 1328",
+    "location": "Teatro Municipal de Foz",
+    "start_date": "2026-04-18",
+    "end_date": "2026-04-18",
+    "open_date": "2026-04-18",
+    "category": "show"
+  },
+  {
+    "id": "ev-004",
+    "name": "Iguassu Half Marathon",
+    "address": "Av. das Cataratas, s/n — Portão Principal",
+    "location": "Parque Nacional do Iguaçu",
+    "start_date": "2026-04-20",
+    "end_date": "2026-04-20",
+    "open_date": "2026-04-20",
+    "category": "esporte"
+  },
+  {
+    "id": "ev-005",
+    "name": "Expo Turismo Foz",
+    "address": "Av. das Cataratas, 6845",
+    "location": "Centro de Convenções de Foz",
+    "start_date": "2026-04-22",
+    "end_date": "2026-04-25",
+    "open_date": "2026-04-22",
+    "category": "feira"
+  },
+  {
+    "id": "ev-006",
+    "name": "Trilha Noturna Itaipu",
+    "address": "Av. Tancredo Neves, 6702",
+    "location": "Refúgio Biológico Bela Vista",
+    "start_date": "2026-04-25",
+    "end_date": "2026-04-26",
+    "open_date": "2026-04-25",
+    "category": "esporte"
+  },
+  {
+    "id": "ev-007",
+    "name": "Festival de Jazz & Blues",
+    "address": "Praça da Paz, s/n — Porto Meira",
+    "location": "Anfiteatro da Paz",
+    "start_date": "2026-04-24",
+    "end_date": "2026-04-27",
+    "open_date": "2026-04-24",
+    "category": "show"
+  }
+]
