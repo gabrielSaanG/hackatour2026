@@ -1,5 +1,5 @@
-import { motion } from 'framer-motion';
-import { MapPin, TrendingUp, Database, BarChart3 } from 'lucide-react';
+import { useState } from 'react';
+import { MapPin, TrendingUp, Database, BarChart3, Plane, Bus, Car } from 'lucide-react';
 import LiveMap from '@/components/LiveMap';
 import StatsPanel from '@/components/StatsPanel';
 import VisitorCharts from '@/components/VisitorCharts';
@@ -7,14 +7,70 @@ import ActivityFeed from '@/components/ActivityFeed';
 import { useVehicleSimulation } from '@/hooks/useVehicleSimulation';
 import vehiclesMap from "../json/dados_transito_foz.json";
 import busMap from "../json/dados_onibus_foz.json";
-import {Bus} from "@/data/routes.ts";
+import { Bus as BusType } from "@/data/routes.ts";
 import flightsMap from "../json/kepler.gl.json";
 
+interface LayerVisibility {
+    flights: boolean;
+    buses: boolean;
+    vehicles: boolean;
+}
+
+const LAYER_CONFIG: {
+    key: keyof LayerVisibility;
+    label: string;
+    sublabel: string;
+    icon: React.ElementType;
+    activeColor: string;
+    activeBg: string;
+    activeBorder: string;
+    dot: string;
+}[] = [
+    {
+        key: 'flights',
+        label: 'Voos',
+        sublabel: 'Rotas aéreas',
+        icon: Plane,
+        activeColor: 'text-sky-400',
+        activeBg: 'bg-sky-400/10',
+        activeBorder: 'border-sky-400/40',
+        dot: '#38bdf8',
+    },
+    {
+        key: 'buses',
+        label: 'Ônibus',
+        sublabel: 'Rotas rodoviárias',
+        icon: Bus,
+        activeColor: 'text-amber-400',
+        activeBg: 'bg-amber-400/10',
+        activeBorder: 'border-amber-400/40',
+        dot: '#facc15',
+    },
+    {
+        key: 'vehicles',
+        label: 'Veículos',
+        sublabel: 'Tráfego local',
+        icon: Car,
+        activeColor: 'text-emerald-400',
+        activeBg: 'bg-emerald-400/10',
+        activeBorder: 'border-emerald-400/40',
+        dot: '#22c55e',
+    },
+];
 
 const Index = () => {
     const { vehicles, stats } = useVehicleSimulation();
+    const buses: BusType[] = busMap.routes;
 
-    const buses: Bus[] = busMap.routes
+    const [visibility, setVisibility] = useState<LayerVisibility>({
+        flights: true,
+        buses: true,
+        vehicles: true,
+    });
+
+    const toggle = (key: keyof LayerVisibility) =>
+        setVisibility(v => ({ ...v, [key]: !v[key] }));
+
     return (
         <div className="min-h-screen bg-background">
             {/* Header */}
@@ -26,7 +82,7 @@ const Index = () => {
                         </div>
                         <div>
                             <h1 className="text-lg font-display font-bold text-foreground tracking-tight">
-                                FozInsight
+                                VisionTour
                             </h1>
                             <p className="text-[10px] font-mono text-muted-foreground uppercase tracking-widest">
                                 Inteligência Turística em Tempo Real
@@ -53,9 +109,7 @@ const Index = () => {
 
             <main className="max-w-[1600px] mx-auto p-4 md:p-6 space-y-4">
                 {/* Hero description */}
-                <div
-                    className="bg-card border border-border rounded-lg p-4 flex items-start gap-3"
-                >
+                <div className="bg-card border border-border rounded-lg p-4 flex items-start gap-3">
                     <div className="w-1 h-12 bg-primary rounded-full shrink-0 mt-0.5" />
                     <div>
                         <p className="text-sm text-foreground leading-relaxed">
@@ -74,11 +128,62 @@ const Index = () => {
 
                 {/* Map + Feed */}
                 <div className="grid grid-cols-1 lg:grid-cols-4 gap-4" style={{ minHeight: '450px' }}>
-                    <div className="lg:col-span-3 h-[450px]">
-                        <LiveMap vehicles={vehiclesMap} buses={buses} flights={flightsMap}/>
+                    <div className="lg:col-span-3 flex flex-col gap-2">
+                        {/* Layer toggles */}
+                        <div className="flex items-center gap-2">
+                            <span className="text-[10px] font-mono text-muted-foreground uppercase tracking-widest mr-1">
+                                Camadas
+                            </span>
+                            {LAYER_CONFIG.map(({ key, label, sublabel, icon: Icon, activeColor, activeBg, activeBorder, dot }) => {
+                                const on = visibility[key];
+                                return (
+                                    <button
+                                        key={key}
+                                        onClick={() => toggle(key)}
+                                        className={`
+                                            flex items-center gap-2 px-3 py-1.5 rounded-full border text-xs font-medium
+                                            transition-all duration-200 select-none
+                                            ${on
+                                            ? `${activeBg} ${activeBorder} ${activeColor}`
+                                            : 'bg-muted/30 border-border text-muted-foreground hover:text-foreground hover:border-border/80'
+                                        }
+                                        `}
+                                    >
+                                        {/* status dot */}
+                                        <span
+                                            className={`w-1.5 h-1.5 rounded-full transition-all duration-200 ${on ? 'opacity-100' : 'opacity-0'}`}
+                                            style={{ backgroundColor: dot }}
+                                        />
+                                        <Icon className="w-3 h-3" />
+                                        <span>{label}</span>
+                                        {/* sublabel hidden on small screens */}
+                                        <span className={`hidden sm:inline text-[10px] font-normal opacity-70`}>
+                                            {sublabel}
+                                        </span>
+                                        {/* on/off pill */}
+                                        <span className={`
+                                            ml-0.5 text-[9px] font-mono uppercase px-1 py-0.5 rounded
+                                            ${on ? 'bg-current/10' : 'bg-muted'}
+                                        `}>
+                                            {on ? 'ON' : 'OFF'}
+                                        </span>
+                                    </button>
+                                );
+                            })}
+                        </div>
+
+                        {/* Map */}
+                        <div className="h-[450px]">
+                            <LiveMap
+                                vehicles={vehiclesMap}
+                                buses={buses}
+                                flights={flightsMap}
+                                visibility={visibility}
+                            />
+                        </div>
                     </div>
                     <div className="lg:col-span-1">
-                        <ActivityFeed vehicles={vehicles} />
+                        <ActivityFeed vehicles={vehicles} buses={buses} flights={flightsMap} />
                     </div>
                 </div>
 
