@@ -9,6 +9,8 @@ import vehiclesMap from "../json/dados_transito_foz.json";
 import busMap from "../json/dados_onibus_foz.json";
 import { Bus as BusType } from "@/data/routes.ts";
 import flightsMap from "../json/kepler.gl.json";
+import events from "../json/eventos_2026_unificados.json";
+import EventCalendar from "@/components/ui/Eventcalendar.tsx";
 
 interface LayerVisibility {
     flights: boolean;
@@ -180,6 +182,9 @@ const Index = () => {
                                 flights={flightsMap}
                                 visibility={visibility}
                             />
+                        </div>
+                        <div>
+                            <EventCalendar events={events} />
                         </div>
                     </div>
                     <div className="lg:col-span-1">
