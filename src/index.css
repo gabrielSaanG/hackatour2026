@@ -1,0 +1,117 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css";
+
+@layer base {
+    :root {
+        --background: 220 20% 7%;
+        --foreground: 195 100% 95%;
+
+        --card: 220 18% 10%;
+        --card-foreground: 195 100% 95%;
+
+        --popover: 220 18% 10%;
+        --popover-foreground: 195 100% 95%;
+
+        --primary: 185 80% 50%;
+        --primary-foreground: 220 20% 7%;
+
+        --secondary: 220 15% 16%;
+        --secondary-foreground: 195 40% 80%;
+
+        --muted: 220 15% 14%;
+        --muted-foreground: 215 15% 55%;
+
+        --accent: 35 90% 55%;
+        --accent-foreground: 220 20% 7%;
+
+        --destructive: 0 72% 51%;
+        --destructive-foreground: 210 40% 98%;
+
+        --border: 220 15% 18%;
+        --input: 220 15% 18%;
+        --ring: 185 80% 50%;
+
+        --radius: 0.75rem;
+
+        --sidebar-background: 220 18% 10%;
+        --sidebar-foreground: 195 100% 95%;
+        --sidebar-primary: 185 80% 50%;
+        --sidebar-primary-foreground: 220 20% 7%;
+        --sidebar-accent: 220 15% 16%;
+        --sidebar-accent-foreground: 195 40% 80%;
+        --sidebar-border: 220 15% 18%;
+        --sidebar-ring: 185 80% 50%;
+
+        /* Custom tokens */
+        --glow-primary: 185 80% 50%;
+        --glow-accent: 35 90% 55%;
+        --success: 160 70% 45%;
+        --warning: 35 90% 55%;
+        --surface-elevated: 220 16% 12%;
+    }
+}
+
+@layer base {
+    * {
+        @apply border-border;
+    }
+
+    body {
+        @apply bg-background text-foreground;
+        font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    }
+}
+
+@layer utilities {
+    .glow-primary {
+        box-shadow: 0 0 20px hsl(var(--glow-primary) / 0.15), 0 0 60px hsl(var(--glow-primary) / 0.05);
+    }
+
+    .glow-accent {
+        box-shadow: 0 0 20px hsl(var(--glow-accent) / 0.15), 0 0 60px hsl(var(--glow-accent) / 0.05);
+    }
+
+    .text-gradient-primary {
+        background: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--glow-accent)));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    }
+
+    .surface-elevated {
+        background: hsl(var(--surface-elevated));
+    }
+}
+
+/* Leaflet dark theme overrides */
+.leaflet-container {
+    background: hsl(220, 20%, 5%) !important;
+}
+
+.leaflet-tile-pane {
+    filter: brightness(0.6) invert(1) contrast(3) hue-rotate(200deg) saturate(0.3) brightness(0.7);
+}
+
+.leaflet-control-zoom a {
+    background: hsl(220, 18%, 10%) !important;
+    color: hsl(195, 100%, 95%) !important;
+    border-color: hsl(220, 15%, 18%) !important;
+}
+
+/* Vehicle pulse animation */
+@keyframes pulse-dot {
+    0%, 100% { transform: scale(1); opacity: 1; }
+    50% { transform: scale(1.5); opacity: 0.5; }
+}
+
+@keyframes move-vehicle {
+    0% { offset-distance: 0%; }
+    100% { offset-distance: 100%; }
+}
+
+.vehicle-dot {
+    animation: pulse-dot 2s ease-in-out infinite;
+}
