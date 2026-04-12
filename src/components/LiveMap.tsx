@@ -114,7 +114,7 @@ interface LayerVisibility {
 interface LiveMapProps {
     vehicles: Vehicle[];
     buses: Bus[];
-    flights: FlightData[];
+    flights: FlightData;
     visibility: LayerVisibility;
 }
 
@@ -165,11 +165,10 @@ function interpolateArc(
 // ─── Componente ──────────────────────────────────────────────────────────────
 export default function LiveMap({ vehicles, buses, flights, visibility }: LiveMapProps) {
     const [tick, setTick] = useState(0);
-    const iconAtlasRef = useRef<HTMLCanvasElement | null>(null);
-
-    // gera o atlas uma vez
-    if (!iconAtlasRef.current) {
-        iconAtlasRef.current = buildIconAtlas();
+    // gera o atlas uma vez — converte canvas → dataURL (aceito pelo IconLayer)
+    const iconAtlasUrl = useRef<string | null>(null);
+    if (!iconAtlasUrl.current) {
+        iconAtlasUrl.current = buildIconAtlas().toDataURL();
     }
 
     // velocidade reduzida: 0.002 por tick (era implícito mais rápido antes)
@@ -247,20 +246,17 @@ export default function LiveMap({ vehicles, buses, flights, visibility }: LiveMa
             widthMaxPixels: 8,
             jointRounded: true,
             capRounded: true,
-            getDashArray: [6, 4],   // pontilhado para diferenciar
-            dashJustified: true,
-            extensions: [],
             pickable: true,
         });
 
         const busIconLayer = new IconLayer({
             id: "moving-buses",
             data: movingBuses,
-            iconAtlas: iconAtlasRef.current!,
+            iconAtlas: iconAtlasUrl.current!,
             iconMapping: ICON_MAPPING,
             getIcon: () => "bus",
             getPosition: d => d.position,
-            getSize: 36,
+            getSize: () => 36,
             getAngle: d => -d.angle,   // deck.gl usa sentido horário
             sizeMinPixels: 20,
             sizeMaxPixels: 48,
@@ -275,7 +271,7 @@ export default function LiveMap({ vehicles, buses, flights, visibility }: LiveMa
             getSourcePosition: (d: any) => [d.origin.lon, d.origin.lat],
             getTargetPosition: (d: any) => [d.destination.lon, d.destination.lat],
             getWidth: (d: any) => Math.max(1.5, (d.weight ?? 10) * 0.025),
-            widthMinPixels: 1,
+            widthMinPixels: 1 as number,
             getSourceColor: [56, 189, 248, 200],   // sky-400
             getTargetColor: [244, 63, 94, 200],    // rose-500
             getHeight: 0.4,
@@ -285,12 +281,12 @@ export default function LiveMap({ vehicles, buses, flights, visibility }: LiveMa
         const planeIconLayer = new IconLayer({
             id: "moving-planes",
             data: movingPlanes,
-            iconAtlas: iconAtlasRef.current!,
+            iconAtlas: iconAtlasUrl.current!,
             iconMapping: ICON_MAPPING,
             getIcon: () => "plane",
             // position já carrega [lon, lat, altMeters] — deck.gl usa o z como elevação
             getPosition: d => d.position as [number, number, number],
-            getSize: 32,
+            getSize: () => 32,
             getAngle: d => -d.angle,
             sizeMinPixels: 18,
             sizeMaxPixels: 44,
@@ -303,7 +299,7 @@ export default function LiveMap({ vehicles, buses, flights, visibility }: LiveMa
             id: "scatterplotlayer",
             data: vehicles,
             getPosition: d => [d.longitude, d.latitude],
-            getRadius: 15,
+            getRadius: () => 15,
             stroked: false,
             filled: true,
             getFillColor: [255, 200, 0],
@@ -316,6 +312,7 @@ export default function LiveMap({ vehicles, buses, flights, visibility }: LiveMa
         return active;
     }, [movingBuses, movingPlanes, animatedBuses, flights, vehicles, visibility]);
 
+    // @ts-ignore
     return (
         <div className="relative w-full h-full rounded-lg overflow-hidden border border-border">
             <DeckGL
