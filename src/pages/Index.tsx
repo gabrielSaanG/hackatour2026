@@ -5,10 +5,16 @@ import StatsPanel from '@/components/StatsPanel';
 import VisitorCharts from '@/components/VisitorCharts';
 import ActivityFeed from '@/components/ActivityFeed';
 import { useVehicleSimulation } from '@/hooks/useVehicleSimulation';
+import vehiclesMap from "../json/dados_transito_foz.json";
+import busMap from "../json/dados_onibus_foz.json";
+import {Bus} from "@/data/routes.ts";
+import flightsMap from "../json/kepler.gl.json";
+
 
 const Index = () => {
     const { vehicles, stats } = useVehicleSimulation();
 
+    const buses: Bus[] = busMap.routes
     return (
         <div className="min-h-screen bg-background">
             {/* Header */}
@@ -47,9 +53,7 @@ const Index = () => {
 
             <main className="max-w-[1600px] mx-auto p-4 md:p-6 space-y-4">
                 {/* Hero description */}
-                <motion.div
-                    initial={{ opacity: 0, y: -10 }}
-                    animate={{ opacity: 1, y: 0 }}
+                <div
                     className="bg-card border border-border rounded-lg p-4 flex items-start gap-3"
                 >
                     <div className="w-1 h-12 bg-primary rounded-full shrink-0 mt-0.5" />
@@ -63,7 +67,7 @@ const Index = () => {
                             Simulação demonstrativa com rotas reais de origem dos visitantes
                         </p>
                     </div>
-                </motion.div>
+                </div>
 
                 {/* Stats */}
                 <StatsPanel stats={stats} />
@@ -71,7 +75,7 @@ const Index = () => {
                 {/* Map + Feed */}
                 <div className="grid grid-cols-1 lg:grid-cols-4 gap-4" style={{ minHeight: '450px' }}>
                     <div className="lg:col-span-3 h-[450px]">
-                        <LiveMap vehicles={vehicles} />
+                        <LiveMap vehicles={vehiclesMap} buses={buses} flights={flightsMap}/>
                     </div>
                     <div className="lg:col-span-1">
                         <ActivityFeed vehicles={vehicles} />
