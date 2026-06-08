@@ -2,4 +2,7 @@ langchain
 langchain-ollama
 langchain-chroma
 pandas
-pdfplumber 
+pdfplumber
+fastapi
+uvicorn
+python-multipart
