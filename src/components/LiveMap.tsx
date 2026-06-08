@@ -348,7 +348,7 @@ export default function LiveMap({ vehicles, buses, flights, visibility }: LiveMa
             </DeckGL>
 
             {/* Legenda */}
-            <div className="absolute bottom-4 left-4 surface-elevated border border-border rounded-lg p-3 z-[1000] backdrop-blur-sm">
+            <div className="absolute bottom-4 left-4 surface-elevated border border-border rounded-lg p-3 z-10 backdrop-blur-sm">
                 <div className="text-xs font-mono text-muted-foreground mb-2">LEGENDA</div>
                 <div className="flex flex-col gap-1.5">
                     <div className="flex items-center gap-2">
