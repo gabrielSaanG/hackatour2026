@@ -44,7 +44,10 @@ def collect_traffic_data() -> None:
         if attempt < MAX_ATTEMPTS:
             time.sleep(RETRY_DELAY_SECONDS)
 
-    raise last_error
+    if last_error is not None:
+        raise last_error
+
+    raise RuntimeError("Nenhuma tentativa de coleta foi executada.")
 
 
 def has_json_changes() -> bool:
