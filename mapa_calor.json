@@ -3,938 +3,938 @@
     "lat": -25.60182,
     "lng": -54.57243,
     "peso_carros_ponto": 0.8,
-    "jam_factor": 1.5,
+    "jam_factor": 1.4,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60204,
     "lng": -54.57275,
     "peso_carros_ponto": 0.8,
-    "jam_factor": 1.5,
+    "jam_factor": 1.4,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60182,
     "lng": -54.57243,
-    "peso_carros_ponto": 6.6,
-    "jam_factor": 4.5,
+    "peso_carros_ponto": 2.64,
+    "jam_factor": 1.6,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60076,
     "lng": -54.57184,
-    "peso_carros_ponto": 6.6,
-    "jam_factor": 4.5,
+    "peso_carros_ponto": 2.64,
+    "jam_factor": 1.6,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60641,
     "lng": -54.56773,
     "peso_carros_ponto": 1.39,
-    "jam_factor": 2.8,
+    "jam_factor": 2.3,
     "rua": "República Argentina/Avenida Córdoba"
   },
   {
     "lat": -25.60588,
     "lng": -54.56828,
     "peso_carros_ponto": 1.39,
-    "jam_factor": 2.8,
+    "jam_factor": 2.3,
     "rua": "República Argentina/Avenida Córdoba"
   },
   {
     "lat": -25.60588,
     "lng": -54.56828,
     "peso_carros_ponto": 1.39,
-    "jam_factor": 2.8,
+    "jam_factor": 2.3,
     "rua": "República Argentina/Avenida Córdoba"
   },
   {
     "lat": -25.60558,
     "lng": -54.56857,
     "peso_carros_ponto": 1.39,
-    "jam_factor": 2.8,
+    "jam_factor": 2.3,
     "rua": "República Argentina/Avenida Córdoba"
   },
   {
     "lat": -25.60558,
     "lng": -54.56857,
     "peso_carros_ponto": 1.39,
-    "jam_factor": 2.8,
+    "jam_factor": 2.3,
     "rua": "República Argentina/Avenida Córdoba"
   },
   {
     "lat": -25.60534,
     "lng": -54.56883,
     "peso_carros_ponto": 1.39,
-    "jam_factor": 2.8,
+    "jam_factor": 2.3,
     "rua": "República Argentina/Avenida Córdoba"
   },
   {
     "lat": -25.60534,
     "lng": -54.56883,
     "peso_carros_ponto": 1.39,
-    "jam_factor": 2.8,
+    "jam_factor": 2.3,
     "rua": "República Argentina/Avenida Córdoba"
   },
   {
     "lat": -25.60481,
     "lng": -54.56941,
     "peso_carros_ponto": 1.39,
-    "jam_factor": 2.8,
+    "jam_factor": 2.3,
     "rua": "República Argentina/Avenida Córdoba"
   },
   {
     "lat": -25.60481,
     "lng": -54.56941,
     "peso_carros_ponto": 1.39,
-    "jam_factor": 2.8,
+    "jam_factor": 2.3,
     "rua": "República Argentina/Avenida Córdoba"
   },
   {
     "lat": -25.60475,
     "lng": -54.56947,
     "peso_carros_ponto": 1.39,
-    "jam_factor": 2.8,
+    "jam_factor": 2.3,
     "rua": "República Argentina/Avenida Córdoba"
   },
   {
     "lat": -25.60475,
     "lng": -54.56947,
     "peso_carros_ponto": 1.39,
-    "jam_factor": 2.8,
+    "jam_factor": 2.3,
     "rua": "República Argentina/Avenida Córdoba"
   },
   {
     "lat": -25.60406,
     "lng": -54.57018,
     "peso_carros_ponto": 1.39,
-    "jam_factor": 2.8,
+    "jam_factor": 2.3,
     "rua": "República Argentina/Avenida Córdoba"
   },
   {
     "lat": -25.60406,
     "lng": -54.57018,
     "peso_carros_ponto": 1.39,
-    "jam_factor": 2.8,
+    "jam_factor": 2.3,
     "rua": "República Argentina/Avenida Córdoba"
   },
   {
     "lat": -25.60332,
     "lng": -54.5709,
     "peso_carros_ponto": 1.39,
-    "jam_factor": 2.8,
+    "jam_factor": 2.3,
     "rua": "República Argentina/Avenida Córdoba"
   },
   {
     "lat": -25.60332,
     "lng": -54.5709,
     "peso_carros_ponto": 1.39,
-    "jam_factor": 2.8,
+    "jam_factor": 2.3,
     "rua": "República Argentina/Avenida Córdoba"
   },
   {
     "lat": -25.60258,
     "lng": -54.57166,
     "peso_carros_ponto": 1.39,
-    "jam_factor": 2.8,
+    "jam_factor": 2.3,
     "rua": "República Argentina/Avenida Córdoba"
   },
   {
     "lat": -25.60258,
     "lng": -54.57166,
     "peso_carros_ponto": 1.39,
-    "jam_factor": 2.8,
+    "jam_factor": 2.3,
     "rua": "República Argentina/Avenida Córdoba"
   },
   {
     "lat": -25.6024,
     "lng": -54.57185,
     "peso_carros_ponto": 1.39,
-    "jam_factor": 2.8,
+    "jam_factor": 2.3,
     "rua": "República Argentina/Avenida Córdoba"
   },
   {
     "lat": -25.6024,
     "lng": -54.57185,
     "peso_carros_ponto": 1.39,
-    "jam_factor": 2.8,
+    "jam_factor": 2.3,
     "rua": "República Argentina/Avenida Córdoba"
   },
   {
     "lat": -25.60182,
     "lng": -54.57243,
     "peso_carros_ponto": 1.39,
-    "jam_factor": 2.8,
+    "jam_factor": 2.3,
     "rua": "República Argentina/Avenida Córdoba"
   },
   {
     "lat": -25.6024,
     "lng": -54.57185,
     "peso_carros_ponto": 1.35,
-    "jam_factor": 1.0,
+    "jam_factor": 0.8,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60258,
     "lng": -54.57166,
     "peso_carros_ponto": 1.35,
-    "jam_factor": 1.0,
+    "jam_factor": 0.8,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60258,
     "lng": -54.57166,
     "peso_carros_ponto": 1.35,
-    "jam_factor": 1.0,
+    "jam_factor": 0.8,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60332,
     "lng": -54.5709,
     "peso_carros_ponto": 1.35,
-    "jam_factor": 1.0,
+    "jam_factor": 0.8,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60332,
     "lng": -54.5709,
     "peso_carros_ponto": 1.35,
-    "jam_factor": 1.0,
+    "jam_factor": 0.8,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60406,
     "lng": -54.57018,
     "peso_carros_ponto": 1.35,
-    "jam_factor": 1.0,
+    "jam_factor": 0.8,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60406,
     "lng": -54.57018,
     "peso_carros_ponto": 1.35,
-    "jam_factor": 1.0,
+    "jam_factor": 0.8,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60475,
     "lng": -54.56947,
     "peso_carros_ponto": 1.35,
-    "jam_factor": 1.0,
+    "jam_factor": 0.8,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60475,
     "lng": -54.56947,
     "peso_carros_ponto": 1.35,
-    "jam_factor": 1.0,
+    "jam_factor": 0.8,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60481,
     "lng": -54.56941,
     "peso_carros_ponto": 1.35,
-    "jam_factor": 1.0,
+    "jam_factor": 0.8,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60481,
     "lng": -54.56941,
     "peso_carros_ponto": 1.35,
-    "jam_factor": 1.0,
+    "jam_factor": 0.8,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60534,
     "lng": -54.56883,
     "peso_carros_ponto": 1.35,
-    "jam_factor": 1.0,
+    "jam_factor": 0.8,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60534,
     "lng": -54.56883,
     "peso_carros_ponto": 1.35,
-    "jam_factor": 1.0,
+    "jam_factor": 0.8,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60558,
     "lng": -54.56857,
     "peso_carros_ponto": 1.35,
-    "jam_factor": 1.0,
+    "jam_factor": 0.8,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60558,
     "lng": -54.56857,
     "peso_carros_ponto": 1.35,
-    "jam_factor": 1.0,
+    "jam_factor": 0.8,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60588,
     "lng": -54.56828,
     "peso_carros_ponto": 1.35,
-    "jam_factor": 1.0,
+    "jam_factor": 0.8,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60588,
     "lng": -54.56828,
     "peso_carros_ponto": 1.35,
-    "jam_factor": 1.0,
+    "jam_factor": 0.8,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60641,
     "lng": -54.56773,
     "peso_carros_ponto": 1.35,
-    "jam_factor": 1.0,
+    "jam_factor": 0.8,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60182,
     "lng": -54.57243,
     "peso_carros_ponto": 1.74,
-    "jam_factor": 2.1,
+    "jam_factor": 2.7,
     "rua": "República Argentina/Avenida Córdoba"
   },
   {
     "lat": -25.6024,
     "lng": -54.57185,
     "peso_carros_ponto": 1.74,
-    "jam_factor": 2.1,
+    "jam_factor": 2.7,
     "rua": "República Argentina/Avenida Córdoba"
   },
   {
     "lat": -25.60204,
     "lng": -54.57275,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.60306,
     "lng": -54.57391,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.60306,
     "lng": -54.57391,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.60354,
     "lng": -54.57449,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.60354,
     "lng": -54.57449,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.60405,
     "lng": -54.57511,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.60405,
     "lng": -54.57511,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.60464,
     "lng": -54.57582,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.60464,
     "lng": -54.57582,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.60528,
     "lng": -54.57656,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.60528,
     "lng": -54.57656,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.60551,
     "lng": -54.57678,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.60584,
     "lng": -54.57701,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.60611,
     "lng": -54.57717,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.6065,
     "lng": -54.57727,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.6065,
     "lng": -54.57727,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.6073,
     "lng": -54.5774,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.6073,
     "lng": -54.5774,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.60751,
     "lng": -54.57743,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.60852,
     "lng": -54.57739,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.60852,
     "lng": -54.57739,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.60922,
     "lng": -54.57736,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.60922,
     "lng": -54.57736,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.60991,
     "lng": -54.57735,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.60991,
     "lng": -54.57735,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.61142,
     "lng": -54.5773,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.61142,
     "lng": -54.5773,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.61218,
     "lng": -54.57728,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.61218,
     "lng": -54.57728,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.61289,
     "lng": -54.57725,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.61289,
     "lng": -54.57725,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.61354,
     "lng": -54.57722,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.61354,
     "lng": -54.57722,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.6144,
     "lng": -54.57721,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.6144,
     "lng": -54.57721,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.61552,
     "lng": -54.57715,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.61552,
     "lng": -54.57715,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.6166,
     "lng": -54.57715,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.6166,
     "lng": -54.57715,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.61779,
     "lng": -54.57709,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.61779,
     "lng": -54.57709,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.61806,
     "lng": -54.57703,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.61806,
     "lng": -54.57703,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.61883,
     "lng": -54.57682,
     "peso_carros_ponto": 1.87,
-    "jam_factor": 3.3,
+    "jam_factor": 3.1,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.61806,
     "lng": -54.57703,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.61779,
     "lng": -54.57709,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.61779,
     "lng": -54.57709,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.6166,
     "lng": -54.57715,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.6166,
     "lng": -54.57715,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.61552,
     "lng": -54.57715,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.61552,
     "lng": -54.57715,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.6144,
     "lng": -54.57721,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.6144,
     "lng": -54.57721,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.61354,
     "lng": -54.57722,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.61354,
     "lng": -54.57722,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.61289,
     "lng": -54.57725,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.61289,
     "lng": -54.57725,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.61218,
     "lng": -54.57728,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.61218,
     "lng": -54.57728,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.61142,
     "lng": -54.5773,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.61142,
     "lng": -54.5773,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60991,
     "lng": -54.57735,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60991,
     "lng": -54.57735,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60922,
     "lng": -54.57736,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60922,
     "lng": -54.57736,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60852,
     "lng": -54.57739,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60852,
     "lng": -54.57739,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60751,
     "lng": -54.57743,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.6073,
     "lng": -54.5774,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.6073,
     "lng": -54.5774,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.6065,
     "lng": -54.57727,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.6065,
     "lng": -54.57727,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60611,
     "lng": -54.57717,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60584,
     "lng": -54.57701,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60551,
     "lng": -54.57678,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60528,
     "lng": -54.57656,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60528,
     "lng": -54.57656,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60464,
     "lng": -54.57582,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60464,
     "lng": -54.57582,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60405,
     "lng": -54.57511,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60405,
     "lng": -54.57511,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60354,
     "lng": -54.57449,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60354,
     "lng": -54.57449,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60306,
     "lng": -54.57391,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60306,
     "lng": -54.57391,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60204,
     "lng": -54.57275,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60204,
     "lng": -54.57275,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60182,
     "lng": -54.57243,
     "peso_carros_ponto": 1.82,
-    "jam_factor": 3.1,
+    "jam_factor": 3.2,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.61883,
     "lng": -54.57682,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.8,
+    "jam_factor": 0.9,
     "rua": "Avenida de los Trabajadores"
   },
   {
     "lat": -25.61806,
     "lng": -54.57703,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.8,
+    "jam_factor": 0.9,
     "rua": "Avenida de los Trabajadores"
   },
   {
@@ -954,428 +954,428 @@
   {
     "lat": -25.60641,
     "lng": -54.56773,
-    "peso_carros_ponto": 0.56,
-    "jam_factor": 2.7,
+    "peso_carros_ponto": 4.0,
+    "jam_factor": 7.1,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60631,
     "lng": -54.56747,
-    "peso_carros_ponto": 0.56,
-    "jam_factor": 2.7,
+    "peso_carros_ponto": 4.0,
+    "jam_factor": 7.1,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60589,
     "lng": -54.56383,
     "peso_carros_ponto": 0.4,
-    "jam_factor": 0.0,
+    "jam_factor": 0.2,
     "rua": "12"
   },
   {
     "lat": -25.60611,
     "lng": -54.56399,
     "peso_carros_ponto": 0.4,
-    "jam_factor": 0.0,
+    "jam_factor": 0.2,
     "rua": "12"
   },
   {
     "lat": -25.60611,
     "lng": -54.56399,
     "peso_carros_ponto": 0.4,
-    "jam_factor": 0.0,
+    "jam_factor": 0.2,
     "rua": "12"
   },
   {
     "lat": -25.60619,
     "lng": -54.56406,
     "peso_carros_ponto": 0.4,
-    "jam_factor": 0.0,
+    "jam_factor": 0.2,
     "rua": "12"
   },
   {
     "lat": -25.60619,
     "lng": -54.56406,
     "peso_carros_ponto": 1.34,
-    "jam_factor": 1.7,
+    "jam_factor": 1.5,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60623,
     "lng": -54.56455,
     "peso_carros_ponto": 1.34,
-    "jam_factor": 1.7,
+    "jam_factor": 1.5,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.6062,
     "lng": -54.56471,
     "peso_carros_ponto": 1.34,
-    "jam_factor": 1.7,
+    "jam_factor": 1.5,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.6062,
     "lng": -54.56471,
     "peso_carros_ponto": 1.34,
-    "jam_factor": 1.7,
+    "jam_factor": 1.5,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60626,
     "lng": -54.56581,
     "peso_carros_ponto": 1.34,
-    "jam_factor": 1.7,
+    "jam_factor": 1.5,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60626,
     "lng": -54.56581,
     "peso_carros_ponto": 1.34,
-    "jam_factor": 1.7,
+    "jam_factor": 1.5,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60629,
     "lng": -54.56677,
     "peso_carros_ponto": 1.34,
-    "jam_factor": 1.7,
+    "jam_factor": 1.5,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60629,
     "lng": -54.56677,
     "peso_carros_ponto": 1.34,
-    "jam_factor": 1.7,
+    "jam_factor": 1.5,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60631,
     "lng": -54.56747,
     "peso_carros_ponto": 1.34,
-    "jam_factor": 1.7,
+    "jam_factor": 1.5,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60631,
     "lng": -54.56747,
     "peso_carros_ponto": 1.34,
-    "jam_factor": 1.7,
+    "jam_factor": 1.5,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60641,
     "lng": -54.56773,
     "peso_carros_ponto": 1.34,
-    "jam_factor": 1.7,
+    "jam_factor": 1.5,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60631,
     "lng": -54.56747,
-    "peso_carros_ponto": 1.27,
-    "jam_factor": 2.7,
+    "peso_carros_ponto": 3.18,
+    "jam_factor": 4.1,
     "rua": "12"
   },
   {
     "lat": -25.60629,
     "lng": -54.56677,
-    "peso_carros_ponto": 1.27,
-    "jam_factor": 2.7,
+    "peso_carros_ponto": 3.18,
+    "jam_factor": 4.1,
     "rua": "12"
   },
   {
     "lat": -25.60629,
     "lng": -54.56677,
-    "peso_carros_ponto": 1.27,
-    "jam_factor": 2.7,
+    "peso_carros_ponto": 3.18,
+    "jam_factor": 4.1,
     "rua": "12"
   },
   {
     "lat": -25.60626,
     "lng": -54.56581,
-    "peso_carros_ponto": 1.27,
-    "jam_factor": 2.7,
+    "peso_carros_ponto": 3.18,
+    "jam_factor": 4.1,
     "rua": "12"
   },
   {
     "lat": -25.60626,
     "lng": -54.56581,
-    "peso_carros_ponto": 1.27,
-    "jam_factor": 2.7,
+    "peso_carros_ponto": 3.18,
+    "jam_factor": 4.1,
     "rua": "12"
   },
   {
     "lat": -25.6062,
     "lng": -54.56471,
-    "peso_carros_ponto": 1.27,
-    "jam_factor": 2.7,
+    "peso_carros_ponto": 3.18,
+    "jam_factor": 4.1,
     "rua": "12"
   },
   {
     "lat": -25.6062,
     "lng": -54.56471,
-    "peso_carros_ponto": 1.27,
-    "jam_factor": 2.7,
+    "peso_carros_ponto": 3.18,
+    "jam_factor": 4.1,
     "rua": "12"
   },
   {
     "lat": -25.60623,
     "lng": -54.56455,
-    "peso_carros_ponto": 1.27,
-    "jam_factor": 2.7,
+    "peso_carros_ponto": 3.18,
+    "jam_factor": 4.1,
     "rua": "12"
   },
   {
     "lat": -25.60619,
     "lng": -54.56406,
-    "peso_carros_ponto": 1.27,
-    "jam_factor": 2.7,
+    "peso_carros_ponto": 3.18,
+    "jam_factor": 4.1,
     "rua": "12"
   },
   {
     "lat": -25.60619,
     "lng": -54.56406,
-    "peso_carros_ponto": 1.27,
-    "jam_factor": 2.7,
+    "peso_carros_ponto": 3.18,
+    "jam_factor": 4.1,
     "rua": "12"
   },
   {
     "lat": -25.60623,
     "lng": -54.56394,
-    "peso_carros_ponto": 1.27,
-    "jam_factor": 2.7,
+    "peso_carros_ponto": 3.18,
+    "jam_factor": 4.1,
     "rua": "12"
   },
   {
     "lat": -25.60635,
     "lng": -54.56369,
-    "peso_carros_ponto": 1.27,
-    "jam_factor": 2.7,
+    "peso_carros_ponto": 3.18,
+    "jam_factor": 4.1,
     "rua": "12"
   },
   {
     "lat": -25.60531,
     "lng": -54.56519,
     "peso_carros_ponto": 2.13,
-    "jam_factor": 1.8,
+    "jam_factor": 2.3,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.6044,
     "lng": -54.56565,
     "peso_carros_ponto": 2.13,
-    "jam_factor": 1.8,
+    "jam_factor": 2.3,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.60437,
     "lng": -54.56568,
     "peso_carros_ponto": 2.13,
-    "jam_factor": 1.8,
+    "jam_factor": 2.3,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.60437,
     "lng": -54.56568,
     "peso_carros_ponto": 2.13,
-    "jam_factor": 1.8,
+    "jam_factor": 2.3,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.60338,
     "lng": -54.56618,
     "peso_carros_ponto": 2.13,
-    "jam_factor": 1.8,
+    "jam_factor": 2.3,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.60338,
     "lng": -54.56618,
     "peso_carros_ponto": 2.13,
-    "jam_factor": 1.8,
+    "jam_factor": 2.3,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.60223,
     "lng": -54.5668,
     "peso_carros_ponto": 2.13,
-    "jam_factor": 1.8,
+    "jam_factor": 2.3,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.60223,
     "lng": -54.5668,
     "peso_carros_ponto": 2.13,
-    "jam_factor": 1.8,
+    "jam_factor": 2.3,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.60161,
     "lng": -54.56711,
     "peso_carros_ponto": 2.13,
-    "jam_factor": 1.8,
+    "jam_factor": 2.3,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.60161,
     "lng": -54.56711,
     "peso_carros_ponto": 2.13,
-    "jam_factor": 1.8,
+    "jam_factor": 2.3,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.60147,
     "lng": -54.5672,
     "peso_carros_ponto": 2.13,
-    "jam_factor": 1.8,
+    "jam_factor": 2.3,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.60134,
     "lng": -54.56722,
     "peso_carros_ponto": 2.13,
-    "jam_factor": 1.8,
+    "jam_factor": 2.3,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.60105,
     "lng": -54.56718,
     "peso_carros_ponto": 2.13,
-    "jam_factor": 1.8,
+    "jam_factor": 2.3,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.5985,
     "lng": -54.56648,
     "peso_carros_ponto": 2.13,
-    "jam_factor": 1.8,
+    "jam_factor": 2.3,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.5985,
     "lng": -54.56648,
     "peso_carros_ponto": 2.13,
-    "jam_factor": 1.8,
+    "jam_factor": 2.3,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.59814,
     "lng": -54.56646,
     "peso_carros_ponto": 2.13,
-    "jam_factor": 1.8,
+    "jam_factor": 2.3,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.5985,
     "lng": -54.56648,
     "peso_carros_ponto": 2.31,
-    "jam_factor": 0.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60105,
     "lng": -54.56718,
     "peso_carros_ponto": 2.31,
-    "jam_factor": 0.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60134,
     "lng": -54.56722,
     "peso_carros_ponto": 2.31,
-    "jam_factor": 0.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60147,
     "lng": -54.5672,
     "peso_carros_ponto": 2.31,
-    "jam_factor": 0.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60161,
     "lng": -54.56711,
     "peso_carros_ponto": 2.31,
-    "jam_factor": 0.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60161,
     "lng": -54.56711,
     "peso_carros_ponto": 2.31,
-    "jam_factor": 0.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60223,
     "lng": -54.5668,
     "peso_carros_ponto": 2.31,
-    "jam_factor": 0.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60223,
     "lng": -54.5668,
     "peso_carros_ponto": 2.31,
-    "jam_factor": 0.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60338,
     "lng": -54.56618,
     "peso_carros_ponto": 2.31,
-    "jam_factor": 0.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60338,
     "lng": -54.56618,
     "peso_carros_ponto": 2.31,
-    "jam_factor": 0.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60437,
     "lng": -54.56568,
     "peso_carros_ponto": 2.31,
-    "jam_factor": 0.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60437,
     "lng": -54.56568,
     "peso_carros_ponto": 2.31,
-    "jam_factor": 0.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.6044,
     "lng": -54.56565,
     "peso_carros_ponto": 2.31,
-    "jam_factor": 0.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60531,
     "lng": -54.56519,
     "peso_carros_ponto": 2.31,
-    "jam_factor": 0.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60531,
     "lng": -54.56519,
     "peso_carros_ponto": 2.31,
-    "jam_factor": 0.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.6062,
     "lng": -54.56471,
     "peso_carros_ponto": 2.31,
-    "jam_factor": 0.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
@@ -1396,371 +1396,371 @@
     "lat": -25.59814,
     "lng": -54.56646,
     "peso_carros_ponto": 0.79,
-    "jam_factor": 3.2,
+    "jam_factor": 2.6,
     "rua": "Hipólito Yrigoyen"
   },
   {
     "lat": -25.59811,
     "lng": -54.56661,
     "peso_carros_ponto": 0.79,
-    "jam_factor": 3.2,
+    "jam_factor": 2.6,
     "rua": "Hipólito Yrigoyen"
   },
   {
     "lat": -25.5981,
     "lng": -54.56705,
     "peso_carros_ponto": 0.79,
-    "jam_factor": 3.2,
+    "jam_factor": 2.6,
     "rua": "Hipólito Yrigoyen"
   },
   {
     "lat": -25.61452,
     "lng": -54.5591,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.6147,
     "lng": -54.55932,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.6147,
     "lng": -54.55932,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61517,
     "lng": -54.56,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61542,
     "lng": -54.56052,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61551,
     "lng": -54.56086,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.6156,
     "lng": -54.56151,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61561,
     "lng": -54.56175,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61561,
     "lng": -54.56175,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61565,
     "lng": -54.56209,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61565,
     "lng": -54.56209,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61567,
     "lng": -54.56228,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61567,
     "lng": -54.56228,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61589,
     "lng": -54.56589,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61591,
     "lng": -54.56613,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61599,
     "lng": -54.56649,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61599,
     "lng": -54.56649,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61605,
     "lng": -54.56682,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61605,
     "lng": -54.56682,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61615,
     "lng": -54.56707,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61615,
     "lng": -54.56707,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61673,
     "lng": -54.56853,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61673,
     "lng": -54.56853,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61696,
     "lng": -54.56906,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61713,
     "lng": -54.56957,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61713,
     "lng": -54.56957,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61751,
     "lng": -54.57036,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61751,
     "lng": -54.57036,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61757,
     "lng": -54.57057,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61767,
     "lng": -54.57101,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61767,
     "lng": -54.57101,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61774,
     "lng": -54.57134,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61774,
     "lng": -54.57134,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61781,
     "lng": -54.57165,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61781,
     "lng": -54.57165,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61795,
     "lng": -54.57226,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61795,
     "lng": -54.57226,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61805,
     "lng": -54.57276,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61805,
     "lng": -54.57276,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61814,
     "lng": -54.57314,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61814,
     "lng": -54.57314,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61825,
     "lng": -54.5737,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61825,
     "lng": -54.5737,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61841,
     "lng": -54.57452,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61841,
     "lng": -54.57452,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61856,
     "lng": -54.57529,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61856,
     "lng": -54.57529,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61872,
     "lng": -54.57609,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61872,
     "lng": -54.57609,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
     "lat": -25.61883,
     "lng": -54.57682,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 2.2,
+    "jam_factor": 2.1,
     "rua": "República Argentina"
   },
   {
@@ -5267,1351 +5267,1351 @@
     "lat": -25.61452,
     "lng": -54.5591,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61483,
     "lng": -54.55881,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61483,
     "lng": -54.55881,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61502,
     "lng": -54.55861,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61502,
     "lng": -54.55861,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61518,
     "lng": -54.55845,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61518,
     "lng": -54.55845,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61536,
     "lng": -54.55828,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61536,
     "lng": -54.55828,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61572,
     "lng": -54.55794,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61572,
     "lng": -54.55794,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61599,
     "lng": -54.55768,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61599,
     "lng": -54.55768,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61646,
     "lng": -54.55723,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61646,
     "lng": -54.55723,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61653,
     "lng": -54.55716,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61653,
     "lng": -54.55716,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61697,
     "lng": -54.55674,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61697,
     "lng": -54.55674,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61736,
     "lng": -54.55636,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61736,
     "lng": -54.55636,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61755,
     "lng": -54.55618,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61755,
     "lng": -54.55618,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61762,
     "lng": -54.55611,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61762,
     "lng": -54.55611,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61804,
     "lng": -54.5557,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61804,
     "lng": -54.5557,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.6182,
     "lng": -54.55555,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.6182,
     "lng": -54.55555,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61879,
     "lng": -54.555,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61879,
     "lng": -54.555,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61999,
     "lng": -54.55385,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.61999,
     "lng": -54.55385,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.6202,
     "lng": -54.55364,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.6202,
     "lng": -54.55364,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62059,
     "lng": -54.55325,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62059,
     "lng": -54.55325,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62114,
     "lng": -54.55274,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62114,
     "lng": -54.55274,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62168,
     "lng": -54.55223,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62168,
     "lng": -54.55223,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62175,
     "lng": -54.55216,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62175,
     "lng": -54.55216,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62204,
     "lng": -54.55188,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62204,
     "lng": -54.55188,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62221,
     "lng": -54.55172,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62221,
     "lng": -54.55172,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62346,
     "lng": -54.55052,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62346,
     "lng": -54.55052,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62397,
     "lng": -54.55003,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62397,
     "lng": -54.55003,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62427,
     "lng": -54.54975,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62427,
     "lng": -54.54975,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62482,
     "lng": -54.54922,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62482,
     "lng": -54.54922,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62528,
     "lng": -54.54878,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62528,
     "lng": -54.54878,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62588,
     "lng": -54.54821,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62588,
     "lng": -54.54821,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62623,
     "lng": -54.54788,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62623,
     "lng": -54.54788,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62633,
     "lng": -54.54778,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62643,
     "lng": -54.54765,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62643,
     "lng": -54.54765,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62673,
     "lng": -54.54738,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62673,
     "lng": -54.54738,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62713,
     "lng": -54.54702,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62713,
     "lng": -54.54702,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62755,
     "lng": -54.54662,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62755,
     "lng": -54.54662,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62778,
     "lng": -54.5464,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62778,
     "lng": -54.5464,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62802,
     "lng": -54.54617,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62802,
     "lng": -54.54617,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62835,
     "lng": -54.54585,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62835,
     "lng": -54.54585,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62879,
     "lng": -54.54543,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62879,
     "lng": -54.54543,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62916,
     "lng": -54.54508,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.62916,
     "lng": -54.54508,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.63063,
     "lng": -54.54367,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.63063,
     "lng": -54.54367,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.63181,
     "lng": -54.54255,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.63264,
     "lng": -54.54178,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.63264,
     "lng": -54.54178,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.6329,
     "lng": -54.54153,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.6329,
     "lng": -54.54153,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.6342,
     "lng": -54.54032,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.6342,
     "lng": -54.54032,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.6345,
     "lng": -54.54004,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.6345,
     "lng": -54.54004,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.63503,
     "lng": -54.53955,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.63503,
     "lng": -54.53955,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.63644,
     "lng": -54.53825,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.63644,
     "lng": -54.53825,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.63754,
     "lng": -54.53723,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.63754,
     "lng": -54.53723,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.63774,
     "lng": -54.53705,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.63774,
     "lng": -54.53705,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.63888,
     "lng": -54.53599,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.63888,
     "lng": -54.53599,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.6393,
     "lng": -54.5356,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.6393,
     "lng": -54.5356,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.6397,
     "lng": -54.53523,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.6397,
     "lng": -54.53523,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.64044,
     "lng": -54.53454,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.64044,
     "lng": -54.53454,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.64095,
     "lng": -54.53407,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.64152,
     "lng": -54.53352,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.64152,
     "lng": -54.53352,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.64183,
     "lng": -54.53321,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.64199,
     "lng": -54.53303,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.64229,
     "lng": -54.53267,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.64294,
     "lng": -54.53185,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.64294,
     "lng": -54.53185,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.64341,
     "lng": -54.53125,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.64341,
     "lng": -54.53125,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.64416,
     "lng": -54.53029,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.64416,
     "lng": -54.53029,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.64589,
     "lng": -54.52807,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.64589,
     "lng": -54.52807,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.64702,
     "lng": -54.52662,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.64702,
     "lng": -54.52662,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.64825,
     "lng": -54.52505,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.64825,
     "lng": -54.52505,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.65092,
     "lng": -54.52163,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.65092,
     "lng": -54.52163,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.65186,
     "lng": -54.52043,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.65186,
     "lng": -54.52043,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.65247,
     "lng": -54.51965,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.65247,
     "lng": -54.51965,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.65267,
     "lng": -54.51939,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.65267,
     "lng": -54.51939,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.65325,
     "lng": -54.51865,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.65325,
     "lng": -54.51865,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.65411,
     "lng": -54.51756,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.65411,
     "lng": -54.51756,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.65486,
     "lng": -54.51661,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.65486,
     "lng": -54.51661,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.65538,
     "lng": -54.51594,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.65538,
     "lng": -54.51594,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.65822,
     "lng": -54.51232,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.65822,
     "lng": -54.51232,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.65921,
     "lng": -54.51106,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.65921,
     "lng": -54.51106,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.65964,
     "lng": -54.51051,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.65964,
     "lng": -54.51051,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66009,
     "lng": -54.50994,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66009,
     "lng": -54.50994,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66068,
     "lng": -54.50918,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66068,
     "lng": -54.50918,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66102,
     "lng": -54.50875,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66102,
     "lng": -54.50875,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66149,
     "lng": -54.50815,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66149,
     "lng": -54.50815,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66178,
     "lng": -54.50778,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66178,
     "lng": -54.50778,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66246,
     "lng": -54.50691,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66246,
     "lng": -54.50691,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66294,
     "lng": -54.5063,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66294,
     "lng": -54.5063,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66547,
     "lng": -54.50307,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66547,
     "lng": -54.50307,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66575,
     "lng": -54.50271,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66575,
     "lng": -54.50271,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66784,
     "lng": -54.50005,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66784,
     "lng": -54.50005,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66807,
     "lng": -54.49982,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66844,
     "lng": -54.49936,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66844,
     "lng": -54.49936,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66867,
     "lng": -54.49921,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66881,
     "lng": -54.49915,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66889,
     "lng": -54.49913,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66905,
     "lng": -54.49912,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.66942,
     "lng": -54.49917,
     "peso_carros_ponto": 1.96,
-    "jam_factor": 0.4,
+    "jam_factor": 0.1,
     "rua": "101"
   },
   {
     "lat": -25.59812,
     "lng": -54.56928,
     "peso_carros_ponto": 1.25,
-    "jam_factor": 2.6,
+    "jam_factor": 3.1,
     "rua": "Hipólito Yrigoyen"
   },
   {
     "lat": -25.59811,
     "lng": -54.56854,
     "peso_carros_ponto": 1.25,
-    "jam_factor": 2.6,
+    "jam_factor": 3.1,
     "rua": "Hipólito Yrigoyen"
   },
   {
     "lat": -25.59811,
     "lng": -54.56854,
     "peso_carros_ponto": 1.25,
-    "jam_factor": 2.6,
+    "jam_factor": 3.1,
     "rua": "Hipólito Yrigoyen"
   },
   {
     "lat": -25.59809,
     "lng": -54.56777,
     "peso_carros_ponto": 1.25,
-    "jam_factor": 2.6,
+    "jam_factor": 3.1,
     "rua": "Hipólito Yrigoyen"
   },
   {
     "lat": -25.59809,
     "lng": -54.56777,
     "peso_carros_ponto": 1.25,
-    "jam_factor": 2.6,
+    "jam_factor": 3.1,
     "rua": "Hipólito Yrigoyen"
   },
   {
     "lat": -25.5981,
     "lng": -54.56705,
     "peso_carros_ponto": 1.25,
-    "jam_factor": 2.6,
+    "jam_factor": 3.1,
     "rua": "Hipólito Yrigoyen"
   },
   {
     "lat": -25.5981,
     "lng": -54.56705,
     "peso_carros_ponto": 1.25,
-    "jam_factor": 2.6,
+    "jam_factor": 3.1,
     "rua": "Hipólito Yrigoyen"
   },
   {
     "lat": -25.59811,
     "lng": -54.56661,
     "peso_carros_ponto": 1.25,
-    "jam_factor": 2.6,
+    "jam_factor": 3.1,
     "rua": "Hipólito Yrigoyen"
   },
   {
     "lat": -25.59814,
     "lng": -54.56646,
     "peso_carros_ponto": 1.25,
-    "jam_factor": 2.6,
+    "jam_factor": 3.1,
     "rua": "Hipólito Yrigoyen"
   },
   {
     "lat": -25.5981,
     "lng": -54.56705,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 3.6,
+    "jam_factor": 1.2,
     "rua": "Avenida Córdoba"
   },
   {
     "lat": -25.59809,
     "lng": -54.56777,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 3.6,
+    "jam_factor": 1.2,
     "rua": "Avenida Córdoba"
   },
   {
     "lat": -25.59809,
     "lng": -54.56777,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 3.6,
+    "jam_factor": 1.2,
     "rua": "Avenida Córdoba"
   },
   {
     "lat": -25.59811,
     "lng": -54.56854,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 3.6,
+    "jam_factor": 1.2,
     "rua": "Avenida Córdoba"
   },
   {
     "lat": -25.59811,
     "lng": -54.56854,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 3.6,
+    "jam_factor": 1.2,
     "rua": "Avenida Córdoba"
   },
   {
     "lat": -25.59812,
     "lng": -54.56928,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 3.6,
+    "jam_factor": 1.2,
     "rua": "Avenida Córdoba"
   },
   {
     "lat": -25.59812,
     "lng": -54.56928,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 3.6,
+    "jam_factor": 1.2,
     "rua": "Avenida Córdoba"
   },
   {
     "lat": -25.59814,
     "lng": -54.56994,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 3.6,
+    "jam_factor": 1.2,
     "rua": "Avenida Córdoba"
   },
   {
     "lat": -25.59817,
     "lng": -54.57039,
     "peso_carros_ponto": 1.48,
-    "jam_factor": 3.6,
+    "jam_factor": 1.2,
     "rua": "Avenida Córdoba"
   },
   {
@@ -6639,973 +6639,973 @@
     "lat": -25.60076,
     "lng": -54.57184,
     "peso_carros_ponto": 1.28,
-    "jam_factor": 0.3,
+    "jam_factor": 0.9,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.59986,
     "lng": -54.57133,
     "peso_carros_ponto": 1.28,
-    "jam_factor": 0.3,
+    "jam_factor": 0.9,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.59986,
     "lng": -54.57133,
     "peso_carros_ponto": 1.28,
-    "jam_factor": 0.3,
+    "jam_factor": 0.9,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.59893,
     "lng": -54.57082,
     "peso_carros_ponto": 1.28,
-    "jam_factor": 0.3,
+    "jam_factor": 0.9,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.59893,
     "lng": -54.57082,
     "peso_carros_ponto": 1.28,
-    "jam_factor": 0.3,
+    "jam_factor": 0.9,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.59888,
     "lng": -54.57079,
     "peso_carros_ponto": 1.28,
-    "jam_factor": 0.3,
+    "jam_factor": 0.9,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.59888,
     "lng": -54.57079,
     "peso_carros_ponto": 1.28,
-    "jam_factor": 0.3,
+    "jam_factor": 0.9,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.59859,
     "lng": -54.57063,
     "peso_carros_ponto": 1.28,
-    "jam_factor": 0.3,
+    "jam_factor": 0.9,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.59859,
     "lng": -54.57063,
     "peso_carros_ponto": 1.28,
-    "jam_factor": 0.3,
+    "jam_factor": 0.9,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.59817,
     "lng": -54.57039,
     "peso_carros_ponto": 1.28,
-    "jam_factor": 0.3,
+    "jam_factor": 0.9,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.59893,
     "lng": -54.57082,
     "peso_carros_ponto": 5.98,
-    "jam_factor": 5.5,
+    "jam_factor": 5.8,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.59986,
     "lng": -54.57133,
     "peso_carros_ponto": 5.98,
-    "jam_factor": 5.5,
+    "jam_factor": 5.8,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.59986,
     "lng": -54.57133,
     "peso_carros_ponto": 5.98,
-    "jam_factor": 5.5,
+    "jam_factor": 5.8,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60076,
     "lng": -54.57184,
     "peso_carros_ponto": 5.98,
-    "jam_factor": 5.5,
+    "jam_factor": 5.8,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60076,
     "lng": -54.57184,
     "peso_carros_ponto": 5.98,
-    "jam_factor": 5.5,
+    "jam_factor": 5.8,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.60182,
     "lng": -54.57243,
     "peso_carros_ponto": 5.98,
-    "jam_factor": 5.5,
+    "jam_factor": 5.8,
     "rua": "Avenida Victoria Aguirre Este"
   },
   {
     "lat": -25.59817,
     "lng": -54.57039,
-    "peso_carros_ponto": 1.57,
-    "jam_factor": 4.1,
+    "peso_carros_ponto": 0.63,
+    "jam_factor": 3.9,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.59859,
     "lng": -54.57063,
-    "peso_carros_ponto": 1.57,
-    "jam_factor": 4.1,
+    "peso_carros_ponto": 0.63,
+    "jam_factor": 3.9,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.59859,
     "lng": -54.57063,
-    "peso_carros_ponto": 1.57,
-    "jam_factor": 4.1,
+    "peso_carros_ponto": 0.63,
+    "jam_factor": 3.9,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.59888,
     "lng": -54.57079,
-    "peso_carros_ponto": 1.57,
-    "jam_factor": 4.1,
+    "peso_carros_ponto": 0.63,
+    "jam_factor": 3.9,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.59888,
     "lng": -54.57079,
-    "peso_carros_ponto": 1.57,
-    "jam_factor": 4.1,
+    "peso_carros_ponto": 0.63,
+    "jam_factor": 3.9,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.59893,
     "lng": -54.57082,
-    "peso_carros_ponto": 1.57,
-    "jam_factor": 4.1,
+    "peso_carros_ponto": 0.63,
+    "jam_factor": 3.9,
     "rua": "Avenida Guaraní"
   },
   {
     "lat": -25.60589,
     "lng": -54.56383,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.6056,
     "lng": -54.56386,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.60545,
     "lng": -54.56386,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.60514,
     "lng": -54.56383,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.60514,
     "lng": -54.56383,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.6049,
     "lng": -54.56377,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.6049,
     "lng": -54.56377,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.60456,
     "lng": -54.56366,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.60456,
     "lng": -54.56366,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.60426,
     "lng": -54.56355,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.60426,
     "lng": -54.56355,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.60402,
     "lng": -54.56346,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.60402,
     "lng": -54.56346,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.6037,
     "lng": -54.56334,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.6037,
     "lng": -54.56334,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.60322,
     "lng": -54.56316,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.60322,
     "lng": -54.56316,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.60276,
     "lng": -54.56299,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.60276,
     "lng": -54.56299,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.60106,
     "lng": -54.56238,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.60106,
     "lng": -54.56238,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.60085,
     "lng": -54.56224,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.60085,
     "lng": -54.56224,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.60029,
     "lng": -54.56203,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.60029,
     "lng": -54.56203,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59912,
     "lng": -54.5616,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59912,
     "lng": -54.5616,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59898,
     "lng": -54.56156,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59898,
     "lng": -54.56156,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59871,
     "lng": -54.56153,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59871,
     "lng": -54.56153,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59818,
     "lng": -54.56133,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59818,
     "lng": -54.56133,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.5974,
     "lng": -54.56099,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.5974,
     "lng": -54.56099,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59676,
     "lng": -54.56053,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59644,
     "lng": -54.56024,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59526,
     "lng": -54.55929,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59508,
     "lng": -54.55917,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.5946,
     "lng": -54.55891,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59424,
     "lng": -54.55879,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59399,
     "lng": -54.55874,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59374,
     "lng": -54.55873,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59348,
     "lng": -54.55874,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59323,
     "lng": -54.55879,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59299,
     "lng": -54.55886,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59282,
     "lng": -54.55893,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59282,
     "lng": -54.55893,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59269,
     "lng": -54.55898,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.5925,
     "lng": -54.55908,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59183,
     "lng": -54.55952,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59183,
     "lng": -54.55952,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59073,
     "lng": -54.56032,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59041,
     "lng": -54.56049,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59041,
     "lng": -54.56049,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59007,
     "lng": -54.56079,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59007,
     "lng": -54.56079,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.58957,
     "lng": -54.56106,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.58957,
     "lng": -54.56106,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.58882,
     "lng": -54.56157,
     "peso_carros_ponto": 9.93,
-    "jam_factor": 8.4,
+    "jam_factor": 8.2,
     "rua": "Argentina/Brazil"
   },
   {
     "lat": -25.59041,
     "lng": -54.56049,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59073,
     "lng": -54.56032,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59183,
     "lng": -54.55952,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59183,
     "lng": -54.55952,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.5925,
     "lng": -54.55908,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59269,
     "lng": -54.55898,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59282,
     "lng": -54.55893,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59282,
     "lng": -54.55893,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59299,
     "lng": -54.55886,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59323,
     "lng": -54.55879,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59348,
     "lng": -54.55874,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59374,
     "lng": -54.55873,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59399,
     "lng": -54.55874,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59424,
     "lng": -54.55879,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.5946,
     "lng": -54.55891,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59508,
     "lng": -54.55917,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59526,
     "lng": -54.55929,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59644,
     "lng": -54.56024,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59676,
     "lng": -54.56053,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.5974,
     "lng": -54.56099,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.5974,
     "lng": -54.56099,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59818,
     "lng": -54.56133,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59818,
     "lng": -54.56133,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59871,
     "lng": -54.56153,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59871,
     "lng": -54.56153,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59898,
     "lng": -54.56168,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59898,
     "lng": -54.56168,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59907,
     "lng": -54.56173,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.59907,
     "lng": -54.56173,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60026,
     "lng": -54.56215,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60026,
     "lng": -54.56215,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60081,
     "lng": -54.56234,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60081,
     "lng": -54.56234,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60106,
     "lng": -54.56238,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60106,
     "lng": -54.56238,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60276,
     "lng": -54.56299,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60276,
     "lng": -54.56299,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60322,
     "lng": -54.56316,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60322,
     "lng": -54.56316,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.6037,
     "lng": -54.56334,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.6037,
     "lng": -54.56334,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60402,
     "lng": -54.56346,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60402,
     "lng": -54.56346,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60426,
     "lng": -54.56355,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60426,
     "lng": -54.56355,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60456,
     "lng": -54.56366,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60456,
     "lng": -54.56366,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.6049,
     "lng": -54.56377,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.6049,
     "lng": -54.56377,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60514,
     "lng": -54.56383,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60514,
     "lng": -54.56383,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60545,
     "lng": -54.56386,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.6056,
     "lng": -54.56386,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60589,
     "lng": -54.56383,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60589,
     "lng": -54.56383,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60603,
     "lng": -54.5638,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60635,
     "lng": -54.56369,
-    "peso_carros_ponto": 1.35,
-    "jam_factor": 3.0,
+    "peso_carros_ponto": 3.39,
+    "jam_factor": 6.4,
     "rua": "Avenida Presidente Perón"
   },
   {
@@ -7668,420 +7668,420 @@
     "lat": -25.61104,
     "lng": -54.56157,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.61107,
     "lng": -54.56195,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.61107,
     "lng": -54.56208,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.61104,
     "lng": -54.56236,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.61104,
     "lng": -54.56236,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.61101,
     "lng": -54.5625,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.61096,
     "lng": -54.56264,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.61096,
     "lng": -54.56264,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.61081,
     "lng": -54.56297,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.61081,
     "lng": -54.56297,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.61055,
     "lng": -54.56327,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.61055,
     "lng": -54.56327,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.61001,
     "lng": -54.56386,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.61001,
     "lng": -54.56386,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60898,
     "lng": -54.56496,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60898,
     "lng": -54.56496,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60872,
     "lng": -54.56524,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60872,
     "lng": -54.56524,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60851,
     "lng": -54.56548,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60851,
     "lng": -54.56548,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60798,
     "lng": -54.5661,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60798,
     "lng": -54.5661,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60733,
     "lng": -54.56679,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60733,
     "lng": -54.56679,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60641,
     "lng": -54.56773,
     "peso_carros_ponto": 1.32,
-    "jam_factor": 1.0,
+    "jam_factor": 1.5,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60641,
     "lng": -54.56773,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.60733,
     "lng": -54.56679,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.60733,
     "lng": -54.56679,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.60798,
     "lng": -54.5661,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.60798,
     "lng": -54.5661,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.60851,
     "lng": -54.56548,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.60851,
     "lng": -54.56548,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.60872,
     "lng": -54.56524,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.60872,
     "lng": -54.56524,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.60898,
     "lng": -54.56496,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.60898,
     "lng": -54.56496,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.61001,
     "lng": -54.56386,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.61001,
     "lng": -54.56386,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.61055,
     "lng": -54.56327,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.61055,
     "lng": -54.56327,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.61081,
     "lng": -54.56297,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.61081,
     "lng": -54.56297,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.61103,
     "lng": -54.56274,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.61103,
     "lng": -54.56274,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.61127,
     "lng": -54.56245,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.61127,
     "lng": -54.56245,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.61166,
     "lng": -54.56198,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.6117,
     "lng": -54.56192,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.61173,
     "lng": -54.56183,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.61173,
     "lng": -54.56183,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.61186,
     "lng": -54.5617,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.61186,
     "lng": -54.5617,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.61191,
     "lng": -54.56162,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.61196,
     "lng": -54.56147,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.61195,
     "lng": -54.56129,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.61193,
     "lng": -54.5612,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.61189,
     "lng": -54.56111,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.61184,
     "lng": -54.56104,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.61177,
     "lng": -54.56097,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
     "lat": -25.61164,
     "lng": -54.5609,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 3.0,
+    "jam_factor": 1.8,
     "rua": "12"
   },
   {
@@ -8186,217 +8186,217 @@
     "lat": -25.61145,
     "lng": -54.56089,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.61128,
     "lng": -54.56083,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.61113,
     "lng": -54.5608,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.61058,
     "lng": -54.56073,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.61031,
     "lng": -54.56072,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.61031,
     "lng": -54.56072,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60998,
     "lng": -54.5607,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60973,
     "lng": -54.56073,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60936,
     "lng": -54.56084,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.6091,
     "lng": -54.56096,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.6091,
     "lng": -54.56096,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60886,
     "lng": -54.56111,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60873,
     "lng": -54.56121,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.6086,
     "lng": -54.56133,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60834,
     "lng": -54.56162,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60812,
     "lng": -54.56189,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60812,
     "lng": -54.56189,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60795,
     "lng": -54.56211,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60795,
     "lng": -54.56211,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60768,
     "lng": -54.56246,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60768,
     "lng": -54.56246,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.6072,
     "lng": -54.56305,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60694,
     "lng": -54.56331,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60674,
     "lng": -54.56347,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60674,
     "lng": -54.56347,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60657,
     "lng": -54.56358,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60657,
     "lng": -54.56358,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60635,
     "lng": -54.56369,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60635,
     "lng": -54.56369,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60603,
     "lng": -54.5638,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
     "lat": -25.60589,
     "lng": -54.56383,
     "peso_carros_ponto": 0.95,
-    "jam_factor": 1.4,
+    "jam_factor": 1.1,
     "rua": "Avenida Presidente Perón"
   },
   {
@@ -8550,91 +8550,91 @@
     "lat": -25.61186,
     "lng": -54.5617,
     "peso_carros_ponto": 1.21,
-    "jam_factor": 3.5,
+    "jam_factor": 3.0,
     "rua": "Avenida De Los Trabajadores"
   },
   {
     "lat": -25.61201,
     "lng": -54.5616,
     "peso_carros_ponto": 1.21,
-    "jam_factor": 3.5,
+    "jam_factor": 3.0,
     "rua": "Avenida De Los Trabajadores"
   },
   {
     "lat": -25.61209,
     "lng": -54.56153,
     "peso_carros_ponto": 1.21,
-    "jam_factor": 3.5,
+    "jam_factor": 3.0,
     "rua": "Avenida De Los Trabajadores"
   },
   {
     "lat": -25.61209,
     "lng": -54.56153,
     "peso_carros_ponto": 1.21,
-    "jam_factor": 3.5,
+    "jam_factor": 3.0,
     "rua": "Avenida De Los Trabajadores"
   },
   {
     "lat": -25.6125,
     "lng": -54.56112,
     "peso_carros_ponto": 1.21,
-    "jam_factor": 3.5,
+    "jam_factor": 3.0,
     "rua": "Avenida De Los Trabajadores"
   },
   {
     "lat": -25.6125,
     "lng": -54.56112,
     "peso_carros_ponto": 1.21,
-    "jam_factor": 3.5,
+    "jam_factor": 3.0,
     "rua": "Avenida De Los Trabajadores"
   },
   {
     "lat": -25.61333,
     "lng": -54.56027,
     "peso_carros_ponto": 1.21,
-    "jam_factor": 3.5,
+    "jam_factor": 3.0,
     "rua": "Avenida De Los Trabajadores"
   },
   {
     "lat": -25.61333,
     "lng": -54.56027,
     "peso_carros_ponto": 1.21,
-    "jam_factor": 3.5,
+    "jam_factor": 3.0,
     "rua": "Avenida De Los Trabajadores"
   },
   {
     "lat": -25.61342,
     "lng": -54.56018,
     "peso_carros_ponto": 1.21,
-    "jam_factor": 3.5,
+    "jam_factor": 3.0,
     "rua": "Avenida De Los Trabajadores"
   },
   {
     "lat": -25.61342,
     "lng": -54.56018,
     "peso_carros_ponto": 1.21,
-    "jam_factor": 3.5,
+    "jam_factor": 3.0,
     "rua": "Avenida De Los Trabajadores"
   },
   {
     "lat": -25.61435,
     "lng": -54.55927,
     "peso_carros_ponto": 1.21,
-    "jam_factor": 3.5,
+    "jam_factor": 3.0,
     "rua": "Avenida De Los Trabajadores"
   },
   {
     "lat": -25.61435,
     "lng": -54.55927,
     "peso_carros_ponto": 1.21,
-    "jam_factor": 3.5,
+    "jam_factor": 3.0,
     "rua": "Avenida De Los Trabajadores"
   },
   {
     "lat": -25.61452,
     "lng": -54.5591,
     "peso_carros_ponto": 1.21,
-    "jam_factor": 3.5,
+    "jam_factor": 3.0,
     "rua": "Avenida De Los Trabajadores"
   },
   {
@@ -11917,1022 +11917,1022 @@
     "lat": -25.66941,
     "lng": -54.49812,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67012,
     "lng": -54.49722,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.6702,
     "lng": -54.49706,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.6702,
     "lng": -54.49706,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67159,
     "lng": -54.49529,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67159,
     "lng": -54.49529,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67285,
     "lng": -54.49368,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67285,
     "lng": -54.49368,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.673,
     "lng": -54.4935,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.673,
     "lng": -54.4935,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67313,
     "lng": -54.49333,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67313,
     "lng": -54.49333,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.6733,
     "lng": -54.49311,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.6733,
     "lng": -54.49311,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67355,
     "lng": -54.49279,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67355,
     "lng": -54.49279,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67405,
     "lng": -54.49217,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67405,
     "lng": -54.49217,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67438,
     "lng": -54.49179,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67438,
     "lng": -54.49179,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67449,
     "lng": -54.49168,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67449,
     "lng": -54.49168,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67463,
     "lng": -54.49152,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67463,
     "lng": -54.49152,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67482,
     "lng": -54.49135,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67482,
     "lng": -54.49135,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67498,
     "lng": -54.4912,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67498,
     "lng": -54.4912,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67532,
     "lng": -54.49092,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67532,
     "lng": -54.49092,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67656,
     "lng": -54.48989,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67656,
     "lng": -54.48989,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67788,
     "lng": -54.48879,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67788,
     "lng": -54.48879,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67891,
     "lng": -54.48793,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.67891,
     "lng": -54.48793,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68041,
     "lng": -54.48668,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68041,
     "lng": -54.48668,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68273,
     "lng": -54.48473,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68273,
     "lng": -54.48473,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.6839,
     "lng": -54.48376,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.6839,
     "lng": -54.48376,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68425,
     "lng": -54.4835,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68425,
     "lng": -54.4835,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68444,
     "lng": -54.48335,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68444,
     "lng": -54.48335,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68475,
     "lng": -54.48305,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68475,
     "lng": -54.48305,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68545,
     "lng": -54.48247,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68545,
     "lng": -54.48247,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68584,
     "lng": -54.48218,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68584,
     "lng": -54.48218,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68595,
     "lng": -54.4821,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68595,
     "lng": -54.4821,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.6861,
     "lng": -54.48197,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.6861,
     "lng": -54.48197,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68679,
     "lng": -54.4814,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68679,
     "lng": -54.4814,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68947,
     "lng": -54.47918,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68947,
     "lng": -54.47918,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68963,
     "lng": -54.47903,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68963,
     "lng": -54.47903,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68982,
     "lng": -54.47887,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.68982,
     "lng": -54.47887,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69004,
     "lng": -54.47868,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69004,
     "lng": -54.47868,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69049,
     "lng": -54.4783,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69049,
     "lng": -54.4783,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69078,
     "lng": -54.47809,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69117,
     "lng": -54.47777,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69117,
     "lng": -54.47777,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69146,
     "lng": -54.47755,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69146,
     "lng": -54.47755,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69172,
     "lng": -54.47735,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69188,
     "lng": -54.47725,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69188,
     "lng": -54.47725,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69217,
     "lng": -54.47707,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69217,
     "lng": -54.47707,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69258,
     "lng": -54.47682,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69273,
     "lng": -54.47675,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69273,
     "lng": -54.47675,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69349,
     "lng": -54.47638,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69392,
     "lng": -54.47623,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69392,
     "lng": -54.47623,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69635,
     "lng": -54.47541,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69635,
     "lng": -54.47541,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.6966,
     "lng": -54.47531,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.6966,
     "lng": -54.47531,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69763,
     "lng": -54.47496,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69763,
     "lng": -54.47496,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69801,
     "lng": -54.47482,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69801,
     "lng": -54.47482,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69858,
     "lng": -54.47462,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.69858,
     "lng": -54.47462,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70041,
     "lng": -54.47398,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70082,
     "lng": -54.47378,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70105,
     "lng": -54.47364,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70128,
     "lng": -54.47349,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70155,
     "lng": -54.47326,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70269,
     "lng": -54.47201,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70269,
     "lng": -54.47201,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70309,
     "lng": -54.47161,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70309,
     "lng": -54.47161,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70335,
     "lng": -54.47133,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70335,
     "lng": -54.47133,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70416,
     "lng": -54.47045,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70416,
     "lng": -54.47045,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.7046,
     "lng": -54.46997,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.7046,
     "lng": -54.46997,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70555,
     "lng": -54.46894,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70555,
     "lng": -54.46894,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70592,
     "lng": -54.46855,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70592,
     "lng": -54.46855,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70644,
     "lng": -54.46799,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70644,
     "lng": -54.46799,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70669,
     "lng": -54.46771,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70669,
     "lng": -54.46771,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70685,
     "lng": -54.46754,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70685,
     "lng": -54.46754,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70706,
     "lng": -54.46731,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70706,
     "lng": -54.46731,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70832,
     "lng": -54.46594,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70832,
     "lng": -54.46594,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70847,
     "lng": -54.46578,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.70847,
     "lng": -54.46578,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.71068,
     "lng": -54.4634,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.71103,
     "lng": -54.4631,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.71139,
     "lng": -54.46286,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.71167,
     "lng": -54.46272,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.71203,
     "lng": -54.46258,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.71217,
     "lng": -54.46255,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.71217,
     "lng": -54.46255,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.7124,
     "lng": -54.46248,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.7124,
     "lng": -54.46248,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.71261,
     "lng": -54.46245,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.71261,
     "lng": -54.46245,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.71284,
     "lng": -54.46242,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.71299,
     "lng": -54.46242,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.71299,
     "lng": -54.46242,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.71351,
     "lng": -54.46241,
     "peso_carros_ponto": 1.76,
-    "jam_factor": 0.4,
+    "jam_factor": 0.3,
     "rua": "Acceso a Aeropuerto"
   },
   {
     "lat": -25.66844,
     "lng": -54.49936,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 0.6,
+    "jam_factor": 0.0,
     "rua": "12"
   },
   {
     "lat": -25.66891,
     "lng": -54.49876,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 0.6,
+    "jam_factor": 0.0,
     "rua": "12"
   },
   {
     "lat": -25.66891,
     "lng": -54.49876,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 0.6,
+    "jam_factor": 0.0,
     "rua": "12"
   },
   {
     "lat": -25.66896,
     "lng": -54.4987,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 0.6,
+    "jam_factor": 0.0,
     "rua": "12"
   },
   {
     "lat": -25.66896,
     "lng": -54.4987,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 0.6,
+    "jam_factor": 0.0,
     "rua": "12"
   },
   {
     "lat": -25.66941,
     "lng": -54.49812,
     "peso_carros_ponto": 1.09,
-    "jam_factor": 0.6,
+    "jam_factor": 0.0,
     "rua": "12"
   },
   {
@@ -33166,272 +33166,6 @@
     "rua": "Rua Rui Barbosa"
   },
   {
-    "lat": -25.59862,
-    "lng": -54.48932,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59866,
-    "lng": -54.4891,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59872,
-    "lng": -54.48896,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59877,
-    "lng": -54.48889,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59877,
-    "lng": -54.48889,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59883,
-    "lng": -54.48882,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59883,
-    "lng": -54.48882,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59887,
-    "lng": -54.48877,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59887,
-    "lng": -54.48877,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59893,
-    "lng": -54.48868,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59893,
-    "lng": -54.48868,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59896,
-    "lng": -54.48854,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59897,
-    "lng": -54.48842,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59896,
-    "lng": -54.48829,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59891,
-    "lng": -54.48815,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59884,
-    "lng": -54.48806,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59884,
-    "lng": -54.48806,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59873,
-    "lng": -54.48798,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59873,
-    "lng": -54.48798,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59864,
-    "lng": -54.48797,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59855,
-    "lng": -54.48799,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59855,
-    "lng": -54.48799,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59749,
-    "lng": -54.48934,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59749,
-    "lng": -54.48934,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59746,
-    "lng": -54.48943,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59746,
-    "lng": -54.48953,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59748,
-    "lng": -54.48962,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59748,
-    "lng": -54.48962,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59756,
-    "lng": -54.48973,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59756,
-    "lng": -54.48973,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.5977,
-    "lng": -54.48986,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.5977,
-    "lng": -54.48986,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59781,
-    "lng": -54.48987,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59797,
-    "lng": -54.48983,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59819,
-    "lng": -54.48966,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59835,
-    "lng": -54.4896,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59835,
-    "lng": -54.4896,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
-    "lat": -25.59841,
-    "lng": -54.48963,
-    "peso_carros_ponto": 3.79,
-    "jam_factor": 8.8,
-    "rua": "Via sem Nome"
-  },
-  {
     "lat": -25.54971,
     "lng": -54.53874,
     "peso_carros_ponto": 8.35,
@@ -33891,6 +33625,272 @@
     "lng": -54.55803,
     "peso_carros_ponto": 8.35,
     "jam_factor": 8.1,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59862,
+    "lng": -54.48932,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59866,
+    "lng": -54.4891,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59872,
+    "lng": -54.48896,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59877,
+    "lng": -54.48889,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59877,
+    "lng": -54.48889,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59883,
+    "lng": -54.48882,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59883,
+    "lng": -54.48882,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59887,
+    "lng": -54.48877,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59887,
+    "lng": -54.48877,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59893,
+    "lng": -54.48868,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59893,
+    "lng": -54.48868,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59896,
+    "lng": -54.48854,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59897,
+    "lng": -54.48842,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59896,
+    "lng": -54.48829,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59891,
+    "lng": -54.48815,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59884,
+    "lng": -54.48806,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59884,
+    "lng": -54.48806,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59873,
+    "lng": -54.48798,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59873,
+    "lng": -54.48798,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59864,
+    "lng": -54.48797,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59855,
+    "lng": -54.48799,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59855,
+    "lng": -54.48799,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59749,
+    "lng": -54.48934,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59749,
+    "lng": -54.48934,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59746,
+    "lng": -54.48943,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59746,
+    "lng": -54.48953,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59748,
+    "lng": -54.48962,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59748,
+    "lng": -54.48962,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59756,
+    "lng": -54.48973,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59756,
+    "lng": -54.48973,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.5977,
+    "lng": -54.48986,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.5977,
+    "lng": -54.48986,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59781,
+    "lng": -54.48987,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59797,
+    "lng": -54.48983,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59819,
+    "lng": -54.48966,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59835,
+    "lng": -54.4896,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59835,
+    "lng": -54.4896,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
+    "rua": "Via sem Nome"
+  },
+  {
+    "lat": -25.59841,
+    "lng": -54.48963,
+    "peso_carros_ponto": 3.79,
+    "jam_factor": 8.8,
     "rua": "Via sem Nome"
   },
   {
