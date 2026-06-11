@@ -13,15 +13,26 @@ JSON_RELATIVE_PATH = "mapa_calor.json"
 INTERVAL_SECONDS = int(os.getenv("INTERVALO_COLETA_SEGUNDOS", "300"))
 MAX_ATTEMPTS = int(os.getenv("TENTATIVAS_COLETA", "3"))
 RETRY_DELAY_SECONDS = int(os.getenv("INTERVALO_TENTATIVA_SEGUNDOS", "10"))
+COMMAND_TIMEOUT_SECONDS = int(os.getenv("TIMEOUT_COMANDO_SEGUNDOS", "90"))
 
 
 def run_command(command: list[str], check: bool = True) -> subprocess.CompletedProcess[str]:
-    result = subprocess.run(
-        command,
-        cwd=BASE_DIR,
-        text=True,
-        capture_output=True,
-    )
+    try:
+        result = subprocess.run(
+            command,
+            cwd=BASE_DIR,
+            text=True,
+            capture_output=True,
+            timeout=COMMAND_TIMEOUT_SECONDS,
+        )
+    except subprocess.TimeoutExpired as exc:
+        output = exc.stderr or exc.stdout or ""
+        message = f"Comando excedeu timeout de {COMMAND_TIMEOUT_SECONDS}s: {' '.join(command)}"
+        if output:
+            message = f"{message}\n{output.strip()}"
+        if check:
+            raise RuntimeError(message) from exc
+        return subprocess.CompletedProcess(command, 124, exc.stdout, message)
 
     if check and result.returncode != 0:
         output = result.stderr.strip() or result.stdout.strip()

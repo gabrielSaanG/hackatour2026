@@ -9,7 +9,8 @@ url = f"https://data.traffic.hereapi.com/v7/flow?in=bbox:{bbox_trinacional}&loca
 
 
 print("Buscando dados de transito em tempo real...")
-resposta = requests.get(url)
+resposta = requests.get(url, timeout=30)
+resposta.raise_for_status()
 dados = resposta.json()
 
 faixas_de_rolamento = 2
